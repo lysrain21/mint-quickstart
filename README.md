@@ -40,7 +40,7 @@ Open `mint_quickstart.ipynb` and run the cells.
 
 ## Tinker Compatibility
 
-MinT is API-compatible with [Tinker](https://tinker.thinkingmachines.ai). Use these environment variables to connect via the `tinker` package:
+MinT is fully API-compatible with [Tinker](https://tinker.thinkingmachines.ai). If you prefer, you can use the `tinker` package with MinT by configuring environment variables to point to the MinT server:
 
 ```
 TINKER_BASE_URL=https://mint-alpha.macaron.im
