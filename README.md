@@ -6,7 +6,7 @@ Tutorial for training language models with [MinT](https://github.com/MindLab-Res
 
 - `mint_quickstart.ipynb` - Complete tutorial: train a model to solve multiplication using SFT, then refine with RL
 - `mint-skill/` - Migration skill for converting code from verl/TRL/OpenRLHF to MinT
-
+d
 ## Using the Migration Skill
 
 The `mint-skill/` directory contains a skill that helps AI coding agents migrate your existing training code to MinT.
